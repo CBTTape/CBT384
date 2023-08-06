@@ -1,0 +1,4 @@
+2023-08-06 03:47:00.819485 - Initialized conversion of CBT384
+2023-08-06 03:47:00.833063 - Received CBT.V505.FILE384.PDS from FILE384.XMI 
+2023-08-06 03:47:00.835123 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE384.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:47:00.836483 - Found @FILE384.txt (text/plain) in CBT.V505.FILE384.PDS, moved to PDS/@FILE384
